@@ -18,5 +18,5 @@ MediaApp.use(route)
 
 //run the server
 MediaApp.listen(PORT,()=>{
-    console.log("MediaApp server running on port " + PORT);
+    console.log("MediaApp server running on port" + PORT);
 })
