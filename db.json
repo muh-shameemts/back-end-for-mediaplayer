@@ -121,22 +121,16 @@
   ],
   "allVideos": [
     {
-      "id": "d626",
-      "caption": "Music Video",
-      "img": "https://daily.jstor.org/wp-content/uploads/2023/01/good_times_with_bad_music_1050x700.jpg",
-      "url": "https://www.youtube.com/embed/KTOukJQEhmo?si=tAw4yu6l0kZzP6ry"
-    },
-    {
       "id": "8e59",
       "caption": "mearn",
       "img": "https://i0.wp.com/blog.apitier.com/wp-content/uploads/2023/02/MERN_Stack.jpg?fit=560%2C315&ssl=1",
       "url": "https://www.youtube.com/embed/fdxgfdhh"
     },
     {
-      "id": "cd43",
-      "caption": "aaaaa",
-      "img": "a",
-      "url": "https://www.youtube.com/embed/a"
+      "id": "8315",
+      "caption": "a",
+      "img": "aa",
+      "url": "https://www.youtube.com/embed/aaa"
     }
   ],
   "watchHistory": [
